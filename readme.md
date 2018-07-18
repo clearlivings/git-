@@ -4,6 +4,6 @@
 <code>git checkout master</code> 切换分支到master  <br>
 配置邮箱和用户名 <br>
 <code>
-git config --global user.email "zhangkexu@yunquna.com"
-git config --global user.name "zhangkexu"
+git config --global user.email "zhangkexu@yunquna.com" <br>
+git config --global user.name "zhangkexu" <br>
 </code>
