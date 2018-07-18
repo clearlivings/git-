@@ -5,5 +5,7 @@
 配置邮箱和用户名 <br>
 <code>
 git config --global user.email "zhangkexu@yunquna.com" <br>
+</code>
+<code>
 git config --global user.name "zhangkexu" <br>
 </code>
