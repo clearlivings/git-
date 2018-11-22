@@ -6,9 +6,10 @@
 <code>
 git config --global user.email "zhangkexu@yunquna.com" <br>
 </code>
-<code> <br>
+<code> 
 git config --global user.name "zhangkexu" <br>
 </code>
+<br>
 <code>
 touch .gitignore 生成 .gitignore文件
 <code/>
