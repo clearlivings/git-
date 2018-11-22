@@ -6,7 +6,7 @@
 <code>
 git config --global user.email "zhangkexu@yunquna.com" <br>
 </code>
-<code>
+<code> <br>
 git config --global user.name "zhangkexu" <br>
 </code>
 <code>
