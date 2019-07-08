@@ -2,15 +2,17 @@
 <code>git branch -a</code> 查看远程的所有分支 <br>
 <code>git checkout -b xxxx</code> 切换到指定分支 <br>
 <code>git checkout master</code> 切换分支到master  <br>
-配置邮箱和用户名 <br>
-<code>
-git config --global user.email "zhangkexu@yunquna.com" <br>
-</code>
-<code> 
-git config --global user.name "zhangkexu" <br>
-</code>
 <br>
 <code>
 touch .gitignore 生成 .gitignore文件
 npm cache clean --force 解决莫名其妙的错误
 <code/>
+
+
+**查看用户名密码**
+```git config user.name
+git config user.emil
+```
+**修改用户名和邮箱地址**
+```git config --global user.email "zhangkexu@yunquna.com"
+git config --global user.name "zhangkexu"```
