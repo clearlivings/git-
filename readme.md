@@ -10,9 +10,8 @@ npm cache clean --force 解决莫名其妙的错误
 
 
 **查看用户名密码**
-```git config user.name
-git config user.emil
-```
+```git config user.name```
+```git config user.emil```
 **修改用户名和邮箱地址**
-```git config --global user.email "zhangkexu@yunquna.com"
-git config --global user.name "zhangkexu"```
+```git config --global user.email "zhangkexu@yunquna.com"```
+```git config --global user.name "zhangkexu"```
