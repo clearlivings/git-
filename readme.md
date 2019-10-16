@@ -1,4 +1,5 @@
 `touch .gitignore 生成 .gitignore文件`
+
 `npm cache clean --force 解决莫名其妙的错误`
 
 ### 查看用户名密码
