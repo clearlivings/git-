@@ -4,6 +4,7 @@
 ### 查看用户名密码
 
 `git config user.name`
+
 `git config user.emil`
 
 ### 修改用户名和邮箱地址
