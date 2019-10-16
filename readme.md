@@ -9,6 +9,7 @@
 ### 修改用户名和邮箱地址
 
 `git config --global user.email "zhangkexu@yunquna.com"`
+
 `git config --global user.name "zhangkexu"</code>`
 
 
