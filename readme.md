@@ -56,7 +56,7 @@
 
 `git stash clear`
 
-### 修改commit信息（单次提交）
+### 修改commit信息（最后一次提交的注释）
 
 `git commit --amend`
 
