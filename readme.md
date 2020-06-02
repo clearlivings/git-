@@ -55,3 +55,11 @@
 ### 删除存储
 
 `git stash clear`
+
+### 修改commit信息（单次提交）
+
+`git commit --amend`
+
+### 退出shell
+
+`Esc下 大写Z Z 下就退出了(windows)Mac下不知道,因为没机器`
