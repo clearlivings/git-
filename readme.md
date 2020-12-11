@@ -72,7 +72,7 @@
 
 `git commit --amend`
 
-### git撤销commit,回滚到commit前
+### git撤销commit,回滚到commit前（windows下多了""）
 
 `git reset --soft HEAD"^"`
 
