@@ -72,9 +72,20 @@
 
 `git commit --amend`
 
-### git撤销commit,回滚到commit前（windows下多了""）
+### git撤销commit至Changes to be committed（跟踪文件已暂存）,（windows下多了""）
 
 `git reset --soft HEAD"^"`
+
+### Changes not staged for commit（跟踪文件未暂存）
+
+### 把最后的commit切回Changes not staged for commit状态
+
+`git reset HEAD^`
+
+### 把Changes to be committed状态切回Changes not staged for commit状态
+
+`git reset HEAD <file>...          # 单个文件`
+`git reset HEAD -- .               # 所有Changes to be committed的文件`
 
 ### 退出shell
 
