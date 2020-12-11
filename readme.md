@@ -72,6 +72,10 @@
 
 `git commit --amend`
 
+### git撤销commit,回滚到commit前
+
+`git reset --soft HEAD"^"`
+
 ### 退出shell
 
 `Esc下 大写Z Z 下就退出了(windows)Mac下不知道,因为没机器`
