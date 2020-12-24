@@ -59,7 +59,9 @@
 
 `git stash pop ----恢复存储并删除`
 `git stash apply ----恢复存储不删除`
+
 `git stash save 'xxx' ---暂存更改, xxx是起的名字`
+
 `git stash apply 'stash@{num}' ---恢复对应的存储`
 
 ### 展示存储
