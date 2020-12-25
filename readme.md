@@ -58,6 +58,7 @@
 ### 开发完了，想恢复之前分支的改动，那么
 
 `git stash pop ----恢复存储并删除`
+
 `git stash apply ----恢复存储不删除`
 
 `git stash save 'xxx' ---暂存更改, xxx是起的名字`
@@ -77,6 +78,10 @@
 ### 修改commit信息（最后一次提交的注释）
 
 `git commit --amend`
+
+`输入i 进入编辑模式`
+
+`按Esc 后 按:wq保存`
 
 ### git撤销commit至Changes to be committed（跟踪文件已暂存）,（windows下多了""）
 
