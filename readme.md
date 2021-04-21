@@ -99,7 +99,7 @@
 `git reset HEAD -- .               # 所有Changes to be committed的文件`
 
 ### 下载指定分支代码
-```git clone -b 'feature/auto_filter_option' git@git.xxx:yundixxx-v2/frontend/xxx.git`
+```git clone -b 'feature/auto_filter_option' git@git.xxx:yundixxx-v2/frontend/xxx.git```
 
 ### 查看分支地址
 ``` git remote -v```
