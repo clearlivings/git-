@@ -98,6 +98,12 @@
 `git reset HEAD <file>...          # 单个文件`
 `git reset HEAD -- .               # 所有Changes to be committed的文件`
 
+### 下载指定分支代码
+```git clone -b 'feature/auto_filter_option' git@git.xxx:yundixxx-v2/frontend/xxx.git`
+
+### 查看分支地址
+``` git remote -v```
+
 ### 退出shell
 
 `Esc下 大写Z Z 下就退出了(windows)Mac下不知道,因为没机器`
