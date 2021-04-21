@@ -1,3 +1,5 @@
+## git 常用命令
+
 `touch .gitignore 生成 .gitignore文件`
 
 `npm cache clean --force 解决莫名其妙的错误`
